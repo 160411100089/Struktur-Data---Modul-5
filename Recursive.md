@@ -227,7 +227,8 @@ Segitiga ini memiliki bentuk dasar (yaitu, suatu segitiga dan didalamnya terdapa
 Praktikum Struktur Data – 2019
 #Modul 5 – Recursive
 ----------------------------------------------------------------------------------------------------------------------------------------
-Buatlah ilustrasi bentuk fractal seperti contoh berikut dengan menggunakan fungsi rekursif:
+
+(Praktikum soal modul 5 disertakan dalam lampiran file)
 
 
 Jawaban Praktikum
